@@ -15,7 +15,7 @@ Related Blogs and Articles
 Example Alexa Flow Skills
 -------------------------
 
-You can deploy these Flows to your org then configure tje interaction model and sample utterances accordingly. These are included in each of the repositories below, refer to this [blog] on how to setup.
+You can deploy these Flows to your org then configure the interaction model and sample utterances accordingly. These are included in each of the repositories below, refer to this [blog] on how to setup.
 
 - Example Alexa Flows and Scenarios
 
