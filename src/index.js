@@ -77,8 +77,8 @@ SalesforceFlowSkill.prototype.eventHandlers.onIntent = function (intentRequest, 
 
     // Configure a connection (Salesforce Connected App, does not need setting up over and over)
     var org = nforce.createConnection({
-        clientId: '3MVG98_Psg5cppyZIHvLuw.KzXEUWizB2YLAEnYXKoYNiu0.MpeWU0Tplsm7o8SVkK3p51iru8YEs2PUJya8f',
-        clientSecret: '2899208852999383752',
+        clientId: 'yourclientid',
+        clientSecret: 'yoursecret',
         redirectUri: 'http://localhost:3000/oauth/_callback',
         mode: 'single'
     });
