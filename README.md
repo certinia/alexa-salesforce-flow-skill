@@ -17,9 +17,7 @@ Example Alexa Flow Skills
 
 You can deploy these Flows to your org then configure tje interaction model and sample utterances accordingly. These are included in each of the repositories below, refer to this [blog] on how to setup.
 
-- Test Example Alexa Flows
-- Salesforce Standard Object Example Alexa Flows
-- FinancialForce Product Example Alexa Flows
+- Example Alexa Flows and Scenarios
 
 LICENSE
 ---------
