@@ -11,7 +11,7 @@ Related Blogs and Articles
 - FinancialForce meets Amazon Echo Blog - Part 1 Building the FinancialForce Skill
 - FinancialForce meets Amazon Echo Blog - Part 2 Using the FinancialForce Skill
 - Building an Amazon Alexa Skill with the Flow API
-- [Setup and Configuration](https://github.com/financialforcedev/alexa-salesforce-flow-skill/wiki)
+- [Setup and Configuration](https://github.com/financialforcedev/alexa-salesforce-flow-skill/wiki/Setup-and-Configuration)
 
 Example Alexa Flow Skills
 -------------------------
