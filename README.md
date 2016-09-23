@@ -3,7 +3,7 @@ FinancialForce Amazon Echo Skill for Salesforce Flow
 
 This **Alexa Skill** is a working example of how to integrate the [Amazon Alexa Skill API] (https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/docs/alexa-skills-kit-interaction-model-reference#Slot%20Types) with the [Salesforce Visual Flow](https://help.salesforce.com/apex/HTViewHelpDoc?id=vpm_admin_flow_overview.htm&language=en_US) tool via its [API](https://developer.salesforce.com/docs/atlas.en-us.salesforce_vpm_guide.meta/salesforce_vpm_guide/vpm_distribute_system_rest.htm). Once in place it can be used to **add voice integration to Salesforce through Flow and clicks not code**! 
 
-You can read about how we created it and how to try it out for yourself, in the following blog articles. We have also provided some example Flows that help you get started with Salesforce standard objects and FinancialForce products.
+You can read more about how we created it and how to try it out for yourself in your own org, in the following blog articles. We have also provided some example Flows that help you get started.
 
 Related Blogs and Articles
 ------------------
@@ -17,7 +17,7 @@ Example Alexa Flow Skills
 
 You can deploy these Flows to your org then configure the interaction model and sample utterances accordingly. These are included in each of the repositories below, refer to this [blog] on how to setup.
 
-- Example Alexa Flows and Scenarios
+- [Example Alexa Flows and Scenarios](https://github.com/financialforcedev/alexa-salesforce-flow-skill-examples)
 
 LICENSE
 ---------
