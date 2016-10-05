@@ -8,9 +8,8 @@ You can read and **hear more** about how we created it and how to [try it out fo
 Related Blogs and Articles
 ------------------
 
-- FinancialForce meets Amazon Echo Blog - Part 1 Building the FinancialForce Skill
-- FinancialForce meets Amazon Echo Blog - Part 2 Using the FinancialForce Skill
-- Building an Amazon Alexa Skill with the Flow API
+- [Amazon Echo… Meet FinancialForce ERP](https://blog.financialforce.com/amazon-echo-meet-financialforce-erp/)
+- [Building an Amazon Alexa Skill with the Flow API](https://andyinthecloud.com/2016/10/05/building-an-amazon-echo-skill-with-the-flow-api/)
 - [Setup and Configuration](https://github.com/financialforcedev/alexa-salesforce-flow-skill/wiki/Setup-and-Configuration)
 
 Example Alexa Flow Skills
